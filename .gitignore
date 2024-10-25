@@ -1,0 +1,12 @@
+obj/
+bin/
+
+*.suo
+*.user
+
+*.exe
+*.dll
+*.txt
+*.vs/
+
+.ico
